@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.maincontainer {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: aqua;
+}
+
+.inputnumber {
+
+    height: 20px;
+    width: 100px;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: none;
+
+}
+
+.output {
+
+
+    margin-top: 20px;
+    height: 100px;
+    width: 350px;
+}
+
+.btn1 {
+    margin-top: 20px;
+    background-color: rgb(75, 237, 111);
+}
+
+.btn2 {
+    margin-top: 20px;
+    display: none;
+    margin-bottom: 20px;
+}
+
+.Restart {
+    margin-top: 20px;
+    display: none;
+}
+
+.input {
+    margin-top: 20px;
+    display: none;
+}
